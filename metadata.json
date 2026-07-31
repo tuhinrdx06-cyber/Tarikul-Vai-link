@@ -1,0 +1,6 @@
+{
+  "name": "Video Marketing Landing Page",
+  "description": "Dynamic video marketing landing page with live stream thumbnails, incoming call card modals, live notifications, and ad redirection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
